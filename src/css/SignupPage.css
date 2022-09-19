@@ -1,0 +1,19 @@
+.sign-up {
+    width: 50%;
+    height: 60vh;
+    background: #10e98b;
+    transform: translate(50%, 45%);
+    padding: 20px;
+    border-radius: 10px;
+}
+.signup-btn{
+    background: #ffffff;
+    padding: 3px 5px;
+    border-radius: 15px;
+}
+.signup-btn:hover{
+    background: #222223;
+    transition: .5s ease-in-out;
+    cursor: pointer;
+    color: #ffffff;
+}

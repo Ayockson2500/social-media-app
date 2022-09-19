@@ -1,0 +1,53 @@
+.user-profile {
+    text-align: center;
+    padding: 10px;
+    background: #F0F2F5;
+}
+.profile {
+    Box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.user-image {
+    width: 20%;
+    border-radius: 5px;
+}
+.user-pic {
+    width: 40px;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-right: 15px;
+}
+.post-field-container {
+   padding: 10px 45px;
+}
+.fields {
+    background: #FFFFFF;
+}
+.post-field {
+    width: 50%;
+    border: none;
+    padding: 5px 10px;
+    text-align: left;
+    border-radius: 25px;
+    color: #6F7175;
+}
+.post-field:hover {
+    background: #E4E6E9;
+}
+.live-video {
+    color: #E73F5A;
+}
+.files {
+    color: #41B35D;
+}
+.emoji {
+    color: #EAB026;
+}
+.post-file, a {
+    color: #6F7175;
+    padding: 5px;
+    border-radius: 5px;
+}
+.post-file:hover {
+    background: #E4E6E9;
+}

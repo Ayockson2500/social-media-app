@@ -1,0 +1,14 @@
+
+.postList-Container {
+    border: 1px solid red;
+    padding: 10px 10%;
+    background: #F0F2F5;
+}
+.borde-bt {
+    border-bottom: 1px solid #F0F2F5;
+}
+
+.btn:hover {
+    background: #F2F2F2;
+    padding: 2px;
+}

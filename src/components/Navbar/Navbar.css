@@ -1,0 +1,30 @@
+.navbar-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #000;
+    height: 80px;
+}
+.navbar-link {
+    color: white;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.navbar-link-btn {
+    background: #10e98b;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    border-radius: 25px;
+}
+.navbar-link-btn:hover {
+    background: #0a7a49;
+    transition: .5s ease-in-out;
+}
+.user-picture {
+    width: 50px;
+    border-radius: 25px;
+    cursor: pointer;
+}
