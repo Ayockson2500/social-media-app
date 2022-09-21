@@ -18,3 +18,13 @@
 .user-header {
     background: #F0F2F5;
 }
+.edit-button {
+   padding: 4px;
+   border-radius: 25px;
+   font-weight: 500;
+   font-size: 30px;
+}
+.edit-button:hover {
+    background: #d8dee7;
+    cursor: pointer;
+}
